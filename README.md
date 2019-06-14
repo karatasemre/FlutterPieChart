@@ -1,7 +1,7 @@
 # Flutter PieChart
 
 
-![q](https://user-images.githubusercontent.com/7110339/59517027-480fa180-8ecb-11e9-8160-951fa45b271f.png)
+![q](https://user-images.githubusercontent.com/7110339/59517059-5f4e8f00-8ecb-11e9-8982-22900aa42d84.png)
 
 
 ## Questions?🤔
